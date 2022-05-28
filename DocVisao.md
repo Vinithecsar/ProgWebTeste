@@ -6,7 +6,7 @@ Documento de visão
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 26/05/2022 | **1.00** | Versão Inicial  | Infoweb 3 |
+| 28/05/2022 | **1.00** | Versão Inicial  | Infoweb 3 |
 
 ## 1. Objetivo do Projeto 
 Este projeto tem objetivo de desenvolver um site voltado para venda de cursos online da empresa Stack, assim como visualização dos conteúdos das aulas, e interação com os seus respectivos professores.
