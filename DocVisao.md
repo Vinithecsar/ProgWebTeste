@@ -40,11 +40,6 @@ O usuário cliente irá acessar o site utilizando um computador ou celular e rea
 
 O Professor terá sua conta anterior de Aluno / Cliente e após a apresentação do seu curso, ou projeto aos administradores, se aprovado o curso terá acesso ao ambiente virtual do filiado. Desse modo observará os comentários em relação aos projetos, assim podendo tirar dúvidas e insatisfações e verá sua classificação dentro da plataforma.
  
-O administrador acessará o site a partir do ambiente físico da loja e fará a configuração dos produtos a serem vendidos e realizará a logística de atendimento dos pedidos coletados pelo site, registrando a informação de situação de envio dos pedidos. Nesse processo, os produtos que forem identificados fisicamente sem estoque deverão ter sua disponibilidade para venda bloqueada.
-
-O usuário cliente irá acessar o site utilizando  um computador ou celular e realizará a visualização dos produtos vendidos na loja e realizará a compra, caso deseje. Neste caso não há muitas restrições quanto ao ambiente pois ele poderá fazer os pedidos de qualquer local que tenha conexão com internet.
-
-
 ## 5. Principais necessidades dos usuários
 
 Considerando o ponto de vista do lojista e administrador do site, a sua necessidade é de um espaço virtual a fim de abarcar os desejos de uma grande porcentagem de estudantes atuais, a fim de aumentar as vendas e o lucro de sua empresa. Já com o professor, ele também deseja trabalhar lado a lado com a instituição, podendo abarcar uma grande quantidade de alunos, respondendo-os nos comentários das aulas e assim ganhar mais capital.
