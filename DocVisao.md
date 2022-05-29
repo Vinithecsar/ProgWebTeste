@@ -4,7 +4,7 @@ Documento de visão
 
 ### Histórico da Revisão 
 
-|  Data  | Versão | Descrição | Autor |
+|  Data  | Versão | Descrição | Autores |
 |:-------|:-------|:----------|:------|
 | 26/05/2022 | **1.00** | Versão Inicial  | Elizia Regina, Matheus Henrique, Pedro Varela, Raquel Garcia, Ramon Oliveira, Vinícius César |
 
