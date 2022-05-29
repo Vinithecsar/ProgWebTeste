@@ -6,7 +6,7 @@ Documento de visão
 
 |  Data  | Versão | Descrição | Autor |
 |:-------|:-------|:----------|:------|
-| 28/05/2022 | **1.00** | Versão Inicial  | Infoweb 3 |
+| 26/05/2022 | **1.00** | Versão Inicial  | Infoweb 3 |
 
 ## 1. Objetivo do Projeto 
 Este projeto tem objetivo de desenvolver um site voltado para venda de cursos online da empresa Stack, assim como visualização dos conteúdos das aulas, e interação com os seus respectivos professores.
@@ -36,7 +36,7 @@ O comércio eletrônico tem três tipos de usuários. O tipo administrador repre
 
 O administrador acessará o site e fará a configuração dos produtos a serem vendidos, realizará o cadastro dos filiados e terá o controle sobre as vendas e comentários da plataforma. 
 
-O usuário cliente acessará o site utilizando um computador ou celular e visualizará os cursos vendidos na loja, assim como assinaturas disponíveis, podendo realizar a compra, se desejar. Ademais, poderá visualizar os vídeos sem internet, existirão poucas restrições quanto ao ambiente, sendo apenas necessário o uso da internet e o login para efetuar a compra.
+O usuário cliente acessará o site utilizando um computador ou celular e visualizará os cursos vendidos na loja, assim como assinaturas disponíveis, podendo realizar a compra, se desejar. Ademais, existirão poucas restrições quanto ao ambiente, sendo apenas necessário o uso da internet e o login para efetuar a compra.
 
 O Professor terá sua conta anterior de Aluno/Cliente e, após a apresentação do seu curso ou projeto aos administradores, caso aprovado, terá acesso ao ambiente virtual do filiado. Desse modo observará os comentários em relação aos projetos, assim podendo tirar dúvidas e insatisfações e ver sua classificação dentro da plataforma.
 
@@ -57,3 +57,41 @@ Por fim, outra concorrente em potencial é a Alura, empresa voltada ao ensino de
 ## 7.	Visão geral do produto
 
 Esse projeto consiste em um site voltado para uma empresa de cursos online, com a venda de cursos em geral, voltados desde ENEM, idiomas, profissionalizantes, até vestibulares, possuindo um ambiente virtual acessível a todos os tipos de usuários e com intuito de facilitar cada vez mais o aprendizado das pessoas em diversas áreas.  Além disso, o usuário pode comprar um curso específico ou assinar um dos planos: mensal, anual ou vitalício, ou então não assinar nenhum dos dois e usufruir dos serviços individuais. Quanto ao processo pós-compra, o cliente vai poder tirar dúvidas com o(s) professor(es), além de poder avaliar os cursos com comentários e estrelas, repassando para os próximos compradores a satisfação que se foi obtida com o curso.
+
+## 8.	Requisitos funcionais
+
+
+| Código | Nome | Descrição |
+|:---  |:--- |:--- |
+ | F01	| Adicionar, remover ou alterar cursos | O administrador tem à sua disponibilidade a função de adicionar, remover ou alterar cursos comercializados no site estabelecendo ainda seus preços de venda.
+| F02   | Adicionar, remover ou alterar professores | O administrador tem à sua disponibilidade a função de adicionar, remover ou alterar professores, gerenciando também suas respostas aos alunos e materiais adicionais que foram colocados.
+| F03   | Adicionar, remover ou alterar alunos | O administrador tem à sua disponibilidade a função de adicionar, remover ou alterar alunos. Administrando também algum problema na plataforma ou no curso citado pelo aluno.
+| F04	| Adicionar, remover ou alterar categorias de cursos. | O administrador tem à sua disponibilidade a função de adicionar, remover ou alterar grupos de cursos comercializados na plataforma.
+| F05	| Adicionar, remover ou alterar professor do curso. | O administrador tem à sua disponibilidade a função de adicionar, remover ou alterar o professor do cursos comercializados no site.
+| F06	| Disponibilizar ou bloquear a apresentação do curso no site de venda | O administrador tem à sua disponibilidade a função de liberar ou bloquear a apresentação de cursos. Além de possíveis atualizações de materiais ou aulas adicionais.
+| F07	| Registrar  recebimento do pagamento do cliente | O administrador registra no site a identificação do recebimento do pagamento realizado pelo cliente liberando o curso para o cliente/aluno.
+| F08	| Visualizar cursos	| O usuário visualiza os cursos disponíveis filtrando por preços, áreas, assuntos ou através de um trecho do nome do curso.
+| F09	| Adicionar ou remover cursos ao carrinho de compras	| O cliente/aluno  pode escolher mais de um curso para realizar a compra e inserir em um carrinho de compras.
+| F10	| Realizar o cadastro e login no site cliente/aluno	| O usuário pode se cadastrar no site como cliente/aluno para poder comprar cursos e acessar outras diversas funcionalidades como avaliar e comentar os cursos comprados/adquiridos.
+| F11	| Realizar a compra de um curso	| Os clientes/alunos podem confirmar a compra dos cursos adicionados em seu carrinho de compras gerando assim um pedido. 
+| F12	| Realizar a compra de uma assinatura	| Os clientes/alunos podem fazer uma assinatura e assim escolher entre um plano mensal, anual e o vitalício, tendo assim acesso aos cursos do site.
+| F13	| Realizar o cancelamento de quaisquer curso solicitado	| Os clientes/alunos podem solicitar o cancelamento de uma compra realizada desde que ainda não tenham se passado 7 dias do momento da compra e mais de 20% do progresso.
+| F14	| Verificar as compras realizadas	| Os clientes/alunos podem verificar seu histórico de compras na loja.
+| F15	| Verificar o andamento do curso	| Os clientes podem acompanhar o quanto do curso já fizeram, por exemplo, 50% de inglês e 25% de espanhol
+| F16	| Avaliar/Comentar o curso	| Os clientes podem avaliar os produtos realizando um comentário e atribuindo uma nota
+| F17    | Deixar dúvidas para os professores | Ao final ou durante as videoaulas, os clientes terão uma sessão de comentários disponível para que dúvidas acerca do conteúdo sejam deixadas
+| F18 	| Revisar dados cadastrais	| Os clientes/alunos podem alterar seus dados cadastrais permitindo assim que façam, por exemplo, alteração de dados de pagamento.
+| F19	| Realizar o cadastro e login no site professor | O usuário pode se cadastrar no site como professor (depois de ser aceito no processo de seleção de professores da plataforma, disponível no menu “trabalhe conosco”).
+| F20	| Adicionar materiais/aulas extras | O professor terá a função de adicionar materiais e aulas extras ou complementares, caso ache que seja necessário.
+| F21	| Responder dúvidas/comentários dos alunos | O professor terá disponível a funcionalidade de responder às dúvidas dos alunos em relação aos conteúdos do curso, assim como responder comentários. 
+| | | | 
+
+## 9.	Requisitos não-funcionais
+| Código | Nome | Descrição | Categoria | Classificação |
+|:---  |:--- |:--- |:--- |:--- |
+| NF01	| Design responsivo	| O site apresentará responsividade, deixando-o mais confortável para o usuário | Usabilidade	| obrigatório
+| NF02	| Acesso somente com internet	| É necessário um acesso contínuo à Internet para poder acessar os dados do site e suas funcionalidades, como comprar cursos.	| Disponibilidade	| Obrigatório
+| NF03	| Criptografia das informações sensíveis aos usuários	| Senhas do usuário devem ser gravadas de forma criptografada no banco de dados	| Segurança	| Obrigatório
+| NF04	| Organização do conteúdo de forma objetiva	| O site apresentará o conteúdo de forma objetiva, de modo que o usuário encontre o desejado com facilidade.	| Usabilidade	| Obrigatório
+| NF05	| Recursos de acessibilidade	| O site apresentará recursos para melhor visualização e comunicação do conteúdo ministrado a partir da opção de aumentar a fonte, auxiliando as pessoas com baixa visão| Acessibilidade	| Obrigatório
+| | | | 
